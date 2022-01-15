@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Ravi Kiran"
-  avatar           : "pict_linkedin.jpeg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
+  avatar           : "profile_pic.jpg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
   bio              : "Research Scholar at IIT Kharagpur"
   location         : "West Bengal, India"
   employer         :
