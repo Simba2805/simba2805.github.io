@@ -61,11 +61,11 @@ Once you have installed all the three apps, we can begin.
 
 This is how Termux looks when first started. It uses ```pkg``` as its package manager. 
 
-![Termux-1](https://user-images.githubusercontent.com/81288438/112806651-a56ee580-9094-11eb-97c3-35ea40ad03ce.jpg)
+![img_1](../images/android_blog_1/img_1.jpg)
 
 Run ```pkg upgrade ``` to update the system. At one point you would be asked about configuration files. I would recommend to go with the default options here. This will take around 2 minutes to complete.
 
-![Termux-2](https://user-images.githubusercontent.com/81288438/112806657-a7d13f80-9094-11eb-8454-00f9baf2a597.jpg)
+![img_2(../images/android_blog_1/img_2.jpg)
 
 Once the update is finished, go ahead and open **Andronix**. You will be able to choose your preffered distro here. For this guide I am choosing Manjaro XFCE. 
 
