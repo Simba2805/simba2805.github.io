@@ -61,7 +61,7 @@ Once you have installed all the three apps, we can begin.
 
 This is how Termux looks when first started. It uses `pkg` as its package manager. 
 
-![img-1](../images//img_1.jpg)
+![img-1](../images/img_1.jpg)
 
 Run `pkg upgrade ` to update the system. At one point you would be asked about configuration files. I would recommend to go with the default options here. This will take around 2 minutes to complete.
 
