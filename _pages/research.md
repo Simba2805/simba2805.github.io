@@ -15,24 +15,29 @@ header:
 
 ## Selected works
 
-### Energy spectrum of neutron-rich helium isotopes: complex made simple  
-<img style="float: right;margin-bottom: 20px;margin-left: 10px" src="../images/fig_nucl_chart_light.png" width="480">
-**K. Fossez**, J. Rotureau, and W. Nazarewicz  
-Phys. Rev. C **98**, 061302(R) (2018) [article](https://doi.org/10.1103/PhysRevC.98.061302) [arXiv](https://arxiv.org/abs/1806.02936)
+### Immunomodulatory role of black tea in the mitigation of cancer induced by inorganic arsenic
+<img style="float: right;margin-bottom: 20px;margin-left: 10px" src="../images/fig_cancer.png" width="480">
+**R. Kiran**, Swati Tyagi, Syed Abbas, Madhumita Roy and A. Taraphder 
+  _Immunomodulatory role of black tea in the mitigation of cancer induced by inorganic arsenic_
+  Eur. Phys. J. Plus (2020) 135: 735 [[article]](https://link.springer.com/article/10.1140%2Fepjp%2Fs13360-020-00766-1)
+  [[arxiv]](https://arxiv.org/abs/2005.13489) 
 
-<img style="float: right;margin-left: 10px" src="../images/fig_9He.png" width="500">
-We demonstrate that the intricate energy spectrum of neutron-rich helium isotopes can be straightforwardly described by taking advantage of the low-energy properties of neutron-neutron interaction and the scale separation that is present in diluted dripline systems. By using arguments based on the halo effective field theory, we carry out a parameter reduction of the complex-energy configuration interaction framework in the $spd$ space, including resonant and scattering states. By constraining the core potential to $\alpha$-n scattering phase-shifts and adjusting the strength of the spin-singlet central neutron-neutron interaction, we reproduce experimental energies and widths of $^{5-8}$He within tens of keV precision. We predict a parity inversion of narrow resonances in $^{9}$He and show that the ground state of $^{10}$He is an $s$-wave-dominated configuration that could decay through two-neutron emission. This threshold state can be viewed as a "double-halo" structure in an analogy to the atomic ${ {}^{3}\text{He}{}^{4}\text{He}_{2} }$ trimer.  
+We present a model analysis of the tumor and normal cell growth under the influence of a carcinogenic agent, an immunomdulator (IM) and variable influx of immune cells including
+relevant interactions. The tumor growth is facilitated by carcinogens such as inorganic arsenic while the IM considered here is black tea (Camellia sinesnsis). The model with variable influx of immune cells is observed to have considerable advantage over the constant influx model, and while the tumor cell population is greatly mitigated, normal cell population remains
+above healthy levels. The evolutions of normal and tumor cells are computed from the proposed model and their local stabilities are investigated analytically. Numerical simulations
+are performed to study the long term dynamics and an estimation of the effects of various factors is made. This helps in developing a balanced strategy for tumor mitigation without
+the use of chemotherapeutic drugs that usually have strong side-effects
 
 <hr style="width:100%;margin:10px">
 
-### Can tetraneutron be a narrow resonance?  
-<img style="float: right;margin-left: 10px" src="../images/fig_4n.png" width="500">
+### Population Migration and COVID  
+<img style="float: right;margin-left: 10px" src="../images/fig_covid.png" width="500">
+**R. Kiran**, Madhumita Roy, Syed Abbas and A. Taraphder 
+  _Effect of population migration and punctuated lockdown on the spread of infectious diseases_
+  Nonauton. Dyn. Syst. 2021; 8:251-266 [[article]](https://www.degruyter.com/document/doi/10.1515/msds-2020-0137/html)
+  [[arxiv]](https://arxiv.org/abs/2006.15010) 
 
-**K. Fossez**, J. Rotureau, N. Michel, and M. P&#322;oszajczak  
-Phys. Rev. Lett. **119**, 032501 (2017) [article](https://doi.org/10.1103/PhysRevLett.119.032501) [arXiv](https://arxiv.org/abs/1612.01483)
 
-The search for a resonant four-neutron system has been revived thanks to the recent experimental hints reported in Phys. Rev. Lett. **116**, 052501 (2016). The existence of such a system would deeply impact our understanding of nuclear matter and requires a critical investigation. In this work, we study the existence of a four-neutron resonance in the quasi-stationary formalism using \textit{ab initio} techniques with various two-body chiral interactions. We employ the No-Core Gamow Shell Model and the Density Matrix Renormalization Group method, both supplemented by the use of natural orbitals and a new identification technique for broad resonances. We demonstrate that while the energy of the four-neutron system may be compatible with the experimental value, its width must be larger than the reported upper limit, supporting the interpretation of the experimental observation as a reaction process too short to form a nucleus.
+One of the critical measures to control infectious diseases is a lockdown. Once past the lockdown stage in many parts of the world, the crucial question now concerns the effects of relaxing the lockdown and finding the best ways to implement further lockdown(s), if required, to control the spread. With the relaxation of lockdown, people migrate to different cities and enhance the spread of the disease. This work presents the population migration model for n-cities and applies the model for migration between two and three cities. The reproduction number is calculated, and the effect of the migration rate is analyzed. A punctuated lockdown is implemented to simulate a protocol of repeated lockdowns that limits the resurgence of infections. A damped oscillatory behavior is observed with multiple peaks over a period.
 
-[FRIB highlight](https://frib.msu.edu/news/2017/tetraneutron.html), 
-[NSCL highlight](https://nscl.msu.edu/news/science/news-4%20neutrons.html), 
-[Physics World](https://physicsworld.com/a/can-four-neutrons-form-a-stable-nucleus/).
+
