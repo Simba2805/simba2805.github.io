@@ -12,28 +12,12 @@ header:
 
 {% include base_path %}
 
-## Some references
+# Useful notes
 
-- List of selected [reviews](./art_reviews/) in low-energy nuclear physics.
-- List of selected [books](./books/) in low-energy nuclear physics.
+- Commands to manipulate* [pdf files](./commands_pdf/).
+- Miscellaneous* [commands](./commands/)
+- [LaTeX notes*](./latex/)
 
-### Continuum
-
-- List of [articles](./art_Berggren_used/) where the Berggren basis was used.
-- List of [articles](./art_Berggren_Lind/) by T. Berggren and P. Lind.
-- List of [articles](./art_near_threshold/) on near-threshold clustering.
-
-### Methods
-- List of [articles](./DMRG/) on the Density Matrix Renormalization Group (DMRG) method (nuclear physics, harmonic oscillator and Berggren bases).
-- List of [articles](./IMSRG/) on the In-Medium Similarity Renormalization Group (IM-SRG) method.
-
-- Links on [quantum computing](./qc/).
-
-
-## Useful notes
-
-- Commands to manipulate [pdf files](./commands_pdf/).
-- Miscellaneous [commands](./commands/)
-- [LaTeX notes](./latex/)
+_* These are originally written by [Kevin Fossez](https://github.com/kevinfossez/kevinfossez.github.io) which I decided to keep as it is_
 
 
