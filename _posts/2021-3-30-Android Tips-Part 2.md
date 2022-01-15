@@ -1,8 +1,10 @@
----
-layout: post
-title: Android Tips-Part 2
-date: 2021-03-30 09:50:00 -0800
-
+---                                                                                              
+title: 'Android Tips-Part-2'
+date: 2021-03-30
+permalink: /posts/2021/03/android-tips1-blog/
+tags:
+  - mathjax
+  - latex
 ---
 
 # Accessing android files from PC via SSH

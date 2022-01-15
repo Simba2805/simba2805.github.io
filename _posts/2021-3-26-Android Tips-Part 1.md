@@ -1,8 +1,10 @@
----
-layout: post
-title: Android Tips-Part 1
-date: 2021-03-27 15:50:00 -0800
-
+---         
+title: 'Android Tips-Part-1'
+date: 2021-03-27
+permalink: /posts/2021/03/android-tips1-blog/
+tags:
+  - mathjax
+  - latex
 ---
 
 # Installing Linux OS on Android platform

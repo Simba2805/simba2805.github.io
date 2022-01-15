@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Raspberry Pi 4-Getting Started with Manjaro
-date: 2021-03-24 03:15:00 -0800
-
+title: 'Raspberry Pi 4-Getting Started with Manjaro'
+date: 2021-03-24
+permalink: /posts/2021/03/Raspberry-pi-blog/
+tags:
+  - mathjax
+  - latex
 ---
-
 ## Table of contents
 
 [What is Raspberry Pi??](#what-is-raspberry-pi??)
