@@ -1,10 +1,8 @@
----                                                                                                                                                                                                             
-title: 'Android Tips-Part-1'
-date: 2022-01-15
-permalink: /posts/2022/01/blog-post-1/
-tags:
-  - android
-  - linux
+---
+layout: post
+title: Android Tips-Part 1
+date: 2021-03-27 15:50:00 -0800
+
 ---
 
 # Installing Linux OS on Android platform
@@ -59,13 +57,13 @@ For whatever reason you might want to do this, this guide will help you do that.
 
 Once you have installed all the three apps, we can begin.
 
-This is how Termux looks when first started. It uses `pkg` as its package manager. 
+This is how Termux looks when first started. It uses ```pkg``` as its package manager. 
 
-![img-1](../assets/img_1.jpg)
+![Termux-1](https://user-images.githubusercontent.com/81288438/112806651-a56ee580-9094-11eb-97c3-35ea40ad03ce.jpg)
 
-Run `pkg upgrade ` to update the system. At one point you would be asked about configuration files. I would recommend to go with the default options here. This will take around 2 minutes to complete.
+Run ```pkg upgrade ``` to update the system. At one point you would be asked about configuration files. I would recommend to go with the default options here. This will take around 2 minutes to complete.
 
-![img-2](../assets/img_2.jpg)
+![Termux-2](https://user-images.githubusercontent.com/81288438/112806657-a7d13f80-9094-11eb-8454-00f9baf2a597.jpg)
 
 Once the update is finished, go ahead and open **Andronix**. You will be able to choose your preffered distro here. For this guide I am choosing Manjaro XFCE. 
 
