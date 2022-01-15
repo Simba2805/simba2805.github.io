@@ -15,61 +15,27 @@ header:
 
 ## Professional background
 
-- 2014 Ph.D., University of Caen, France, with Prof. Marek P&#322;oszajczak
-- 2015-17 Research Associate, Michigan State University, USA, with Prof. Witek Nazarewicz
-- 2017-19 Research Associate, Michigan State University, USA, with Prof. Heiko Hergert
-- 2019- FRIB Theory Fellow (Assistant Professor), Michigan State University and Argonne National Laboratory, USA
+- 2019- Ph.D, Department of Physics, Indian Institute of Technology Kharagpur, West Bengal
+- 2017-19 M.Sc., Indian Institute of Technology Kharagpur, West Bengal
+- 2012-15 B.Sc., T.N.B College, Bhagalpur, Tilkamanjhi Bhagalpur University(TMBU), Bihar
+- 2010-12 Higher Secondary, T.N.B College, Bhagalpur, Tilkamanjhi Bhagalpur University(TMBU), Bihar
+- 2009-10 Secondary, St’Teresa’s School, Bhagalpur, ICSE Board, Bhagalpur, Bihar
 
 
 ## Research interests
 
-### Open quantum systems
+### Condensed Matter Physics
 
-- Nuclear physics: weakly bound and unbound nuclei
-- Atomic physics: dipolar and quadrupolar anions
+- Computational: DFT, QSGW
+- Theoretical: Topological Systems
 
-### Quantum many-body physics
-
-- Emergent phenomena, interplay with continuum couplings (halos, exotic decay modes, many-body resonances, rotational motion in the continuum, etc.)
-- Effective scales, new degrees of freedom
-
-### Nuclear structure and reactions
-
-- Spectroscopy of atomic nuclei, rotational bands, clustering
-- Proton and neutron radiative capture reactions of astrophysical interest
-
-### Quantum computing
-(in development)
-
-
-## Framework
-
-### Formalism
-
-- Non-Hermitian quantum mechanics
-- Berggren basis
-- Resonating group method, coupled channel formalism
-- Effective field theory for the nuclear shell model (in development)
-
-### Many-body methods
-
-- Particle-plus-rotor in the Berggren basis
-- Gamow shell model (GSM)
-- Density matrix renormalization group (DMRG) for open quantum systems
-- In-medium similarity renormalization group (IM-SRG) for open quantum systems (in development)
+### Mathematical Modelling
+- Biological Models, COVID Modelling
 
 ### Computing skills
 
-- Scientific computing: C++, OpenMP, MPI, hybrid parallel computing
-- Python, matplotlib
+- Scientific computing: Python, MATLAB, Mathematica
 - LaTeX, Tikz
-
-
-## Refereeing
-
-- European Physical Journal A: Hadrons and Nuclei
-- Physica Scripta (Outstanding reviewer 2019)
-- Physical Review C
-- Frontiers in Physics
-- Nature Physics
-
+- BASH Scripting, Linux SysAdmin, Python Scripting and GUI
+- Basic Ethical hacking and Network Security
+- Basic Arduino Programming 
