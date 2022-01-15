@@ -1,7 +1,7 @@
 ---
 title: 'Raspberry Pi 4-Getting Started with Manjaro'
-date: 2021-03-24
-permalink: /posts/2021/03/Raspberry-pi-blog/
+date: 2022-01-15
+permalink: /posts/2022/01/Raspberry-pi-blog/
 tags:
   - mathjax
   - latex

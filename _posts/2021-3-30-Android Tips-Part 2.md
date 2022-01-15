@@ -1,7 +1,7 @@
 ---                                                                                              
 title: 'Android Tips-Part-2'
-date: 2021-03-30
-permalink: /posts/2021/03/android-tips1-blog/
+date: 2022-01-15
+permalink: /posts/2022/01/android-tips2-blog/
 tags:
   - mathjax
   - latex
