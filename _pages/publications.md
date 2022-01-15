@@ -24,11 +24,11 @@ header:
 
 1- **R. Kiran**, Madhumita Roy, Syed Abbas and A. Taraphder 
   _Effect of population migration and punctuated lockdown on the spread of infectious diseases_
-  Nonauton. Dyn. Syst. 2021; 8:251-266 [article](https://www.degruyter.com/document/doi/10.1515/msds-2020-0137/html)
-  [arxiv](https://arxiv.org/abs/2006.15010)  
+  Nonauton. Dyn. Syst. 2021; 8:251-266 [[article]](https://www.degruyter.com/document/doi/10.1515/msds-2020-0137/html)
+  [[arxiv]](https://arxiv.org/abs/2006.15010)  
   
 
- 2- **R. Kiran**, Madhumita Roy, Syed Abbas and A. Taraphder 
+ 2- **R. Kiran**, Swati Tyagi, Syed Abbas, Madhumita Roy and A. Taraphder 
   _Effect of population migration and punctuated lockdown on the spread of infectious diseases_
-  Eur. Phys. J. Plus (2020) 135: 735 [article](https://link.springer.com/article/10.1140%2Fepjp%2Fs13360-020-00766-1)
-  [arxiv](https://arxiv.org/abs/2005.13489)   
+  Eur. Phys. J. Plus (2020) 135: 735 [[article]](https://link.springer.com/article/10.1140%2Fepjp%2Fs13360-020-00766-1)
+  [[arxiv]](https://arxiv.org/abs/2005.13489)   
