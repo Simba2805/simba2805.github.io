@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Nuclear charts"
+title: "My Projects"
 permalink: /charts/
 author_profile: true
 redirect_from:
@@ -13,11 +13,5 @@ header:
 {% include base_path %}
 
 
-## Light to medium-mass nuclei
-
-![Light to medium-mass nuclei](../images/fig_nucl_chart_medium.png)
-
-[//]: # (## Medium-mass nuclei)
-
-[//]: # (![Medium-mass nuclei](../images/fig_nucl_chart_medium.png))
+## My Projects
 
