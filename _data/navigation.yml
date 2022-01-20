@@ -6,7 +6,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Overflow"
+  - title: "Blog"
     url: /overflow/
 
   - title: "Research"
@@ -15,7 +15,7 @@ main:
   - title: "Miscellaneous"
     url: /misc/
 
-  - title: "Nuclear charts"
+  - title: "Personal Projects"
     url: /charts/
 
 #  - title: "Talks"
