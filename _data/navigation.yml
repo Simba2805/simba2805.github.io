@@ -7,7 +7,7 @@ main:
     url: /cv/
 
   - title: "Blog"
-    url: /overflow/
+    url: /blog/
 
   - title: "Research"
     url: /research/
@@ -16,7 +16,7 @@ main:
     url: /misc/
 
   - title: "Personal Projects"
-    url: /charts/
+    url: /projects/
 
 #  - title: "Talks"
 #    url: /talks/    
