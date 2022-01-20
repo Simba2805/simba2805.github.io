@@ -13,5 +13,16 @@ header:
 {% include base_path %}
 
 
-## My Projects
+## Unlock Western Digital Hard Disk: WD-Decrypte-Script
+### [Repository](https://github.com/Ravieroy/WD-Decrypte-Script)
+
+## Information on Scientific Journals: Scientific_Journals_Info
+### [Repository](https://github.com/Ravieroy/Scientific_Journals_Info)
+
+## Weather Information: Weather_GUI
+### [Repository](https://github.com/Ravieroy/Weather_GUI)
+
+## Some Bash Scripts: some-bash-scripts
+### [Repository](https://github.com/Ravieroy/some-bash-scripts)
+
 
