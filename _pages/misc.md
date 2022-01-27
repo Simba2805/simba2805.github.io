@@ -20,4 +20,4 @@ header:
 
 _* These are originally written by [Kevin Fossez](https://github.com/kevinfossez/kevinfossez.github.io) which I decided to keep as it is_
 
-
+# If you want to clone the repository to make your own website, here is [guide](./pages_explanation/) to help you with that.
