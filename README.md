@@ -5,7 +5,7 @@ This repository is a fork of [Kevin Fossez](https://github.com/kevinfossez/kevin
 
 #### The first thing you would like to have is your preffered name for your repository which in this case is also link to your website. Right now, if you have cloned from my github, you will see my *ravieroy.github.io* in your repository name. Click on the settings (as shown below) and change the name to your desired name. 
 
-![Settings_page](Settings_page.png)
+![Settings_page](./images/Settings_page.png)
 
 #### So now we have your website ready but with my details. Let us first start with the "About" section of the page. Here you would like to give link address to your page from the previous step.
 
