@@ -9,11 +9,11 @@ This repository is a fork of [Kevin Fossez](https://github.com/kevinfossez/kevin
 
 #### So now we have your website ready but with my details. Let us first start with the "About" section of the page. Here you would like to give link address to your page from the previous step.
 
-![About_page](About_page.png)
+![About_page](./images/About_page.png)
 
 #### Before we get into the making more important changes, lets start with something simple. We update the README.md file first. It is a simple markdown file whose contents will be displayed in this github repo(not in your website _yourname.github.io_). You can learn basic markdown syntax [here](https://www.markdownguide.org/basic-syntax/) .
 
-![README_page](README_page.png)
+![README_page](./images/README_page.png)
 
 ----
 #### Now we are done with the basic stuffs. Now we go deeper into the files and make some site-defining changes. Remember the changes made is not reflected immediately in the website . You might have to wait couple of minutes, so do not worry. After making changes to specific files let the changes reflect correctly in your website. If something goes wrong and you so something fishy, revert back the changes.  
@@ -39,7 +39,7 @@ This repository is a fork of [Kevin Fossez](https://github.com/kevinfossez/kevin
 ----
 **_data** : _This is a folder and the only file you would want to make changes(in the beginning) is **navigation.yml**. It contains the pages you would like to show in your website(see below image). Remember every section you see here has a corresponding markdown file in the folder **_pages**, so if you add/delete or modify a page, make sure you do the same in the **_pages** folder as well. For example CV is stored in CV.md, Publications is stored in publications.md and so on_.
 
-![Pages_page](Pages_page.png)
+![Pages_page](./images/Pages_page.png)
 
 ---
 
