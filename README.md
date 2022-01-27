@@ -1,6 +1,6 @@
 This repository is a fork of [Kevin Fossez](https://github.com/kevinfossez/kevinfossez.github.io). My personal webpage is hosted [here](https://ravieroy.github.io/).
 
-### This blog details the contents of all the files necessary to make the GitHub page. I will also explain where the changes has to be made inorder to make the website your own. You can make these changes either from the Github website itself or you can do these changes locally and push the changes on your hithub.
+### This details the contents of all the files necessary to make the GitHub page. I will also explain where the changes has to be made inorder to make the website your own. You can make these changes either from the Github website itself or you can do these changes locally and push the changes on your github.
 ----
 
 #### The first thing you would like to have is your preffered name for your repository which in this case is also link to your website. Right now, if you have cloned from my github, you will see my *ravieroy.github.io* in your repository name. Click on the settings (as shown below) and change the name to your desired name. 
