@@ -5,23 +5,23 @@ title: Getting Started with this page
 description: Last update on Jan 28, 2022
 ---
 
-### This blog details the contents of all the files necessary to make the GitHub page. I will also explain where the changes has to be made inorder to make the website your own. You can make these changes either from the Github website itself or you can do these changes locally and push the changes on your hithub.
+## This blog details the contents of all the files necessary to make this GitHub page. I will also explain where the changes has to be made inorder to make the website your own. You can make these changes either from the Github website itself or you can do these changes locally and push the changes on your github.
 ----
 
-#### The first thing you would like to have is your preffered name for your repository which in this case is also link to your website. Right now, if you have cloned from my github, you will see my *ravieroy.github.io* in your repository name. Click on the settings (as shown below) and change the name to your desired name. 
+### The first thing you would like to have is your preffered name for your repository which in this case is also link to your website. Right now, if you have cloned from my github, you will see my *ravieroy.github.io* in your repository name. Click on the settings (as shown below) and change the name to your desired name. 
 
 ![Settings_page](../../images/Settings_page.png)
 
-#### So now we have your website ready but with my details. Let us first start with the "About" section of the page. Here you would like to give link address to your page from the previous step.
+### So now we have your website ready but with my details. Let us first start with the "About" section of the page. Here you would like to give link address to your page from the previous step.
 
 ![About_page](../../images/About_page.png)
 
-#### Before we get into the making more important changes, lets start with something simple. We update the README.md file first. It is a simple markdown file whose contents will be displayed in this github repo(not in your website _yourname.github.io_). You can learn basic markdown syntax [here](https://www.markdownguide.org/basic-syntax/) .
+### Before we get into the making more important changes, lets start with something simple. We update the README.md file first. It is a simple markdown file whose contents will be displayed in this github repo(not in your website _yourname.github.io_). You can learn basic markdown syntax [here](https://www.markdownguide.org/basic-syntax/) .
 
 ![README_page](../../images/README_page.png)
 
 ----
-#### Now we are done with the basic stuffs. Now we go deeper into the files and make some site-defining changes. Remember the changes made is not reflected immediately in the website . You might have to wait couple of minutes, so do not worry. After making changes to specific files let the changes reflect correctly in your website. If something goes wrong and you so something fishy, revert back the changes.  
+### Now we are done with the basic stuffs. Now we go deeper into the files and make some site-defining changes. Remember the changes made is not reflected immediately in the website . You might have to wait couple of minutes, so do not worry. After making changes to specific files let the changes reflect correctly in your website. If something goes wrong and you so something fishy, revert back the changes.  
 
 ----
 
@@ -58,4 +58,4 @@ _This folder also contains another folder named **mypages** which contains a set
 ---
 **images** : _This is the folder which contains images for your posts, profile and everything else. Just use this folder to store the image you are using anyhwere in your website and put the path of the image_.
 
-#### These are enough for your website to get started and look like yours. You can make further changes according to your need and expertise. Hope this helps.
+### These are enough for your website to get started and look like yours. You can make further changes according to your need and expertise. Hope this helps.
