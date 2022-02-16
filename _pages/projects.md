@@ -13,6 +13,10 @@ header:
 {% include base_path %}
 
 
+
+## Wordle solver: Wordle
+### [Repository](https://github.com/Ravieroy/Wordle)
+
 ## Unlock Western Digital Hard Disk: WD-Decrypte-Script
 ### [Repository](https://github.com/Ravieroy/WD-Decrypte-Script)
 
