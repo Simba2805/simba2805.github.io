@@ -8,7 +8,7 @@ description: Last update on Jan 28, 2022
 ## This blog details the contents of all the files necessary to make this GitHub page. I will also explain where the changes has to be made inorder to make the website your own. You can make these changes either from the Github website itself or you can do these changes locally and push the changes on your github.
 ----
 
-### The first thing you would like to have is your preffered name for your repository which in this case is also link to your website. Right now, if you have cloned from my github, you will see my *ravieroy.github.io* in your repository name. Click on the settings (as shown below) and change the name to your desired name. 
+### The first thing you would like to have is your preffered name for your repository which in this case is also link to your website. Right now, if you have forked from my github, you will see my *ravieroy.github.io* in your repository name. Click on the settings (as shown below) and change the name to your desired name. 
 
 ![Settings_page](../../images/Settings_page.png)
 
@@ -21,7 +21,7 @@ description: Last update on Jan 28, 2022
 ![README_page](../../images/README_page.png)
 
 ----
-### Now we are done with the basic stuffs. Now we go deeper into the files and make some site-defining changes. Remember the changes made is not reflected immediately in the website . You might have to wait couple of minutes, so do not worry. After making changes to specific files let the changes reflect correctly in your website. If something goes wrong and you so something fishy, revert back the changes.  
+### Now we are done with the basic stuffs. Now we go deeper into the files and make some site-defining changes. Remember the changes made is not reflected immediately in the website . You might have to wait couple of minutes, so do not worry. After making changes to specific files let the changes reflect correctly in your website. If something goes wrong and you see something fishy, revert back the changes.  
 
 ----
 
