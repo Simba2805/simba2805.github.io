@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Personal page"
 title_separator          : "-"
-name                     : "Ravi Roy"
+name                     : "Shubham Patel"
 description              : "Research Scholar at IIT Kharagpur"
-url                      : "https://ravieroy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://simba2805.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ravieroy/ravieroy.github.io"
+repository               : "Simba2805/simba2805.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 logo                     : #"images/logo_eclipse_MSU.png"
@@ -81,8 +81,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ravi Kiran"
-  avatar           : "profile_pic.jpg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
+  name             : "Shubham Patel"
+  avatar           : "profile_pic.jpeg" #"logo_eclipse_MSU.png" #"profile.png" #must be put in images/
   bio              : "Research Scholar at IIT Kharagpur"
   location         : "West Bengal, India"
   employer         :
@@ -90,7 +90,7 @@ author:
   arxiv            : 
   googlescholar    :
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Ravi-Kiran-43"
+  researchgate     : "https://www.researchgate.net/profile/Shubham-Patel-3"
   uri              :
   bitbucket        :
   codepen          :
