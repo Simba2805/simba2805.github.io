@@ -17,25 +17,39 @@ header:
 
 - 2019- Ph.D, Department of Physics, Indian Institute of Technology Kharagpur, West Bengal
 - 2017-19 M.Sc., Indian Institute of Technology Kharagpur, West Bengal
-- 2012-15 B.Sc., T.N.B College, Bhagalpur, Tilkamanjhi Bhagalpur University(TMBU), Bihar
-- 2010-12 Higher Secondary, T.N.B College, Bhagalpur, Tilkamanjhi Bhagalpur University(TMBU), Bihar
-- 2009-10 Secondary, St’Teresa’s School, Bhagalpur, ICSE Board, Bhagalpur, Bihar
+- 2014-17 B.Sc., Lachoo Memorial College Jodhpur, Rajasthan
+- 2013-14 Higher Secondary, Govt. Senior Secondary School Bilara, Jodhpur, Rajasthan
+- 2011-12 Secondary, R.D.S.S Bilara, Jodhpur, Rajasthan.
 
 
 ## Research interests
 
 ### Condensed Matter Physics
 
-- Computational: DFT, QSGW
-- Theoretical: Topological Systems
+- Computational: DFT, DMFT
 
-### Mathematical Modelling
-- Biological Models, COVID Modelling
+### Scientific Softwares
 
-### Computing skills
+- VASP
+- WIEN2K
+- OpenMX
+- Quantum Espresso
+- p4vasp
+- vaspkit
 
-- Scientific computing: Python, MATLAB, Mathematica
-- LaTeX, Tikz
-- BASH Scripting, Linux SysAdmin, Python Scripting and GUI
-- Basic Ethical hacking and Network Security
-- Basic Arduino Programming 
+
+## Computing skills
+
+- Scientific computing: Python, MATLAB
+- LaTeX, Origin
+- GNUPLOTting
+
+
+
+## Qualifications
+
+- INSPIRE Fellow
+- JAM (February 2017) (Joint Entrance Test for M.Sc. for IITs)
+- GATE (February 2019)
+- CSIR-NET-JRF (June 2019) 
+- MH-SET (June 2019) 
