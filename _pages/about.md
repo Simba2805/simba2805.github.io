@@ -14,7 +14,7 @@ header:
 
 ## Bio
 
-I am a Research Scholar at Department of Physics, IIT Kharagpur. My research interests are in Computational Condensed Matter Physics, Density Functional Theory (DFT) and Dynamical Mean Field Theory based electronic structure calculations. My Ph.D is undergoing under Prof. Arghya Taraphder([google scholar](https://scholar.google.co.jp/citations?user=IY2VoH8AAAAJ&hl=en)). 
+I am a Research Scholar at Department of Physics, IIT Kharagpur. My research interests are in Computational Condensed Matter Physics, Density Functional Theory (DFT) and Dynamical Mean Field Theory (DMFT) based electronic structure calculations. My Ph.D is undergoing under Prof. Arghya Taraphder([google scholar](https://scholar.google.co.jp/citations?user=IY2VoH8AAAAJ&hl=en)). 
 
 
 
