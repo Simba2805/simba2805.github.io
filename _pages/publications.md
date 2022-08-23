@@ -22,6 +22,6 @@ header:
 
 ## Condensed Matter Physics
 
-1- **Shubham Patel**, Urmimala Dey, Narayan Prasad Adhikari and A. Taraphder _Band-gap Engineering and Manipulation of the Rashba Spin Splitting in Janus van der Waals Heterostructures_ [[arxiv]](https://arxiv.org/abs/2112.15457)
+1- **Shubham Patel**, Urmimala Dey, Narayan Prasad Adhikari and A. Taraphder _Electric field and strain-induced band-gap engineering and manipulation of the Rashba spin splitting in Janus van der Waals heterostructures_ [[article]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.035125) [[arxiv]](https://arxiv.org/abs/2112.15457)
 
 
